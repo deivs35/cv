@@ -1,0 +1,39 @@
+.nav-option {
+    color: #fff !important;
+}
+
+.nav-option:hover {
+    color: #ffcc00 !important;
+}
+
+.profile-img {
+    background-image: url('assets/desarrollador.webp');
+    background-size: 500px;
+    background-position-x: -7rem;
+    background-position-y: 1rem;
+    width: 300px;
+    height: 300px;
+}
+
+.profile-section-img {
+    background-image: url('assets/css.avif');
+    background-size: cover;
+    width: 80%;
+    height: 80%;
+}
+
+.fs-header-section {
+    font-size: 3rem;
+}
+
+.wpp {
+    z-index: 3;
+}
+
+.boton {
+    width: 55px;
+    height: 55px;
+
+}
+
+
