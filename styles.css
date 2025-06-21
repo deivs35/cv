@@ -7,10 +7,10 @@
 }
 
 .profile-img {
-    background-image: url('assets/desarrollador.webp');
-    background-size: 500px;
-    background-position-x: -7rem;
-    background-position-y: 1rem;
+    background-image: url('assets/foto\ de\ cv.jpg');
+    background-size: 230px;
+    background-position-x: 2rem;
+    background-position-y: -1rem;
     width: 300px;
     height: 300px;
 }
